@@ -6,7 +6,7 @@ To RUN **AutoAnnotor** you can use:
 
 ## Clone this GitHub Repository
 ```
-git clone https://github.com/naseemap47/autoAnnoter.git
+git clone https://github.com/gurushanthmurthy/autoAnnoter.git
 cd autoAnnoter
 pip3 install -r requirements.txt
 ```
